@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Sites
-- [Wang Kaixin](https://caseyisgood.github.io/)
+- [Wang Kaixin](https://caseyisgood.github.io/) | [王凯鑫](https://wangkaixin.net.cn)
 - [Zhihu](https://www.zhihu.com/people/kai-xin-12-8)
 - [CSDN](https://blog.csdn.net/qq_62540475?type=blog)
 - [CNBlogs](https://www.cnblogs.com/iamkaixin)
